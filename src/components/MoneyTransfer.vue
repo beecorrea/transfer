@@ -13,7 +13,7 @@
 </template>
 
 <script lang="ts">
-import { setup, ref, Ref, computed, toRefs } from 'vue';
+import { setup, ref, computed, toRefs } from 'vue';
 
 /* The strategy is as follows:
 
